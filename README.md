@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=githubpages&logoColor=white)](https://fukui-yuto.github.io/)
 [![Homelab](https://img.shields.io/badge/Homelab-FF79C6?style=for-the-badge&logo=proxmox&logoColor=white)](https://fukui-yuto.github.io/homelab.html)
-![Profile Views](https://komarev.com/ghpvc/?username=fukui-yuto&style=for-the-badge&color=8BE9FD)
+<img src="https://komarev.com/ghpvc/?username=fukui-yuto&style=for-the-badge&color=8BE9FD" alt="Profile Views">
 
 </div>
 
