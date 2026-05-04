@@ -66,20 +66,6 @@ class YutoFukui:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fukui-yuto&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fukui-yuto&theme=dracula&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fukui-yuto&layout=compact&theme=dracula&hide_border=true&langs_count=8)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=fukui-yuto&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
 ## 🏆 Highlights
 
 - ☁️ **Scale:** Operating VMware vSphere across thousands of hosts
