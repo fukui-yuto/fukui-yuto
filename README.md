@@ -101,20 +101,20 @@ class YutoFukui:
   <tr>
     <td rowspan="3">🐧 Linux</td>
     <td><img src="https://img.shields.io/badge/LPIC--3_305-Virtualization_&_Containerization-1A1B26?style=flat-square&logo=linux&logoColor=BD93F9" alt="LPIC-3 305"></td>
-    <td>2024</td>
+    <td>2026</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/LPIC--2-201_/_202-1A1B26?style=flat-square&logo=linux&logoColor=BD93F9" alt="LPIC-2"></td>
-    <td>2023</td>
+    <td>2026</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/LPIC--1-101_/_102-1A1B26?style=flat-square&logo=linux&logoColor=BD93F9" alt="LPIC-1"></td>
-    <td>2022</td>
+    <td>2024</td>
   </tr>
   <tr>
     <td>🖥️ VMware</td>
     <td><img src="https://img.shields.io/badge/VCP--DCV-VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white" alt="VCP-DCV"></td>
-    <td>2023</td>
+    <td>2022</td>
   </tr>
   <tr>
     <td rowspan="2">☁️ AWS</td>
@@ -126,18 +126,22 @@ class YutoFukui:
     <td>2023</td>
   </tr>
   <tr>
-    <td>🔷 Azure</td>
+    <td rowspan="2">🔷 Azure</td>
+    <td><img src="https://img.shields.io/badge/Azure-Administrator_(AZ--104)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AZ-104"></td>
+    <td>2024</td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AZ-900"></td>
     <td>2023</td>
   </tr>
   <tr>
     <td rowspan="2">📋 Other</td>
     <td><img src="https://img.shields.io/badge/Fujitsu-Certified_Professional_Cloud-E60012?style=flat-square&logo=fujitsu&logoColor=white" alt="Fujitsu"></td>
-    <td>2024</td>
+    <td>2023</td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Fundamental_Information_Technology_Engineer-2563EB?style=flat-square&logoColor=white" alt="FE"></td>
-    <td>2021</td>
+    <td>2016</td>
   </tr>
 </table>
 
